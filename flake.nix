@@ -1,6 +1,6 @@
 {
   #does not impact functionality
-  description = "part 3 flake";
+  description = "hellolib repo";
   #the requirements for the nix flake to be built, this will be more important in part 3 when not everything is local
 
   inputs = {
